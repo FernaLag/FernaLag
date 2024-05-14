@@ -1,16 +1,20 @@
-### Hi there 👋
+**Backend** <br>
+SQL Server, T-SQL, C#, and .NET. <br>
 
-<!--
-**FernaLag/FernaLag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sql" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+**Frontend** <br>
+JavaScript, TypeScript, HTML, CSS, React, Angular, and Vue. <br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,vue" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Get in touch** <br>
+LinkedIn: [Fernando Laguna](https://www.linkedin.com/in/fernalag/) <br>
+Email: smilefer_@hotmail.com
