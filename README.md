@@ -17,4 +17,3 @@ JavaScript, TypeScript, HTML, CSS, React, Angular, and Vue. <br>
 
 **Get in touch** <br>
 LinkedIn: [Fernando Laguna](https://www.linkedin.com/in/fernalag/) <br>
-Email: smilefer_@hotmail.com
